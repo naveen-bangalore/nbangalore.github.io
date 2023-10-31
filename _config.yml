@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Berthy Feng"
+title                    : "Naveen Kumar Bangalore Ramaiah"
 title_separator          : "-"
 name                     : &name "Berthy Feng"
 description              : &description "PhD Student @ Caltech CMS"
 url                      : https://www.berthyfeng.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "berthyf96.github.io"
+repository               : "nbangalore.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Berthy Feng"
+  name             : "Naveen Kumar Bangalore Ramaiah"
   avatar           : "profile.png"
   bio              : "PhD Student @ Caltech CMS"
   location         : "Pasadena, CA"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "berthyf96"
+  github           : "naveen-bangalore"
   google_plus      :
   keybase          :
   instagram        :
