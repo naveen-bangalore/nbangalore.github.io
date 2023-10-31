@@ -21,6 +21,6 @@ all:
     venue: "*ICMMM* 2020"
     teaser: rod_surface_inspection.png
     links:
-      - "[Link](https://iopscience.iop.org/article/10.1088/1757-899X/999/1/012012){: .btn .btn--inverse}"
+      - "[Paper Link](https://iopscience.iop.org/article/10.1088/1757-899X/999/1/012012){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
       - "[Code](){: .btn .btn--inverse}"
