@@ -25,6 +25,6 @@ all:
     links:
       - "[Link](https://patents.google.com/patent/US20220230018A1/){: .btn .btn--inverse}"
   - title: "Dynamic image compression for multiple cameras of autonomous vehicles"
-    Inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
+    inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
       - "[Link](https://patents.google.com/patent/US11546503B1/){: .btn .btn--inverse}"
