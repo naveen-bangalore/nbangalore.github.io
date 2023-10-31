@@ -1,8 +1,8 @@
 # Home page news
 main:
   - name: "Detecting Small debris in a vehicle path"
-    info: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU* [link](https://patents.google.com/patent/US11314974B2/en)"
+    info: "*Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU [link](https://patents.google.com/patent/US11314974B2/en)"
   - name: "Data driven dynamically reconfigured disparity map"
-    info: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU* [link](https://patents.google.com/patent/US11790665B2/)!"
+    info: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU [link](https://patents.google.com/patent/US11790665B2/)!"
   - name: "Jul 2023"
     info: "Presented a Spotlight poster at [ICCP 2023](https://iccp2023.iccp-conference.org/)"
