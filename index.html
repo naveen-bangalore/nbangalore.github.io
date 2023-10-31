@@ -45,7 +45,8 @@ author_profile: true
   {% include publication-single.html %}
 {% endfor %}
 <div style="clear: both;"></div>
-<div style="clear: both;"></div>
+
+
 <div id="patents">
   {% for item in site.data.patents.main %}
   <p><strong><font class="new">{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
