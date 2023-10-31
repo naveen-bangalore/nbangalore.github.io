@@ -46,7 +46,7 @@ author_profile: true
 {% endfor %}
 <div style="clear: both;"></div>
 
-<h2>News</h2>
+<h2>Patents</h2>
 <div id="patents">
   {% for item in site.data.patents.main %}
   <p><strong><font class="new">{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
