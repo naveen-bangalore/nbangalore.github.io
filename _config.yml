@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Naveen Kumar Bangalore Ramaiah"
   avatar           : "profile.png"
-  bio              : "Sr. Camera Engineer @ HP Inc"
+  bio              :
   location         : "Austin, TX"
-  employer         :
+  employer         : "Sr. Camera Engineer @ HP Inc"
   pubmed           : 
   googlescholar    : 
   email            : naveen.bangalore@icloud.com
