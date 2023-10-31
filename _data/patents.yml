@@ -1,26 +1,30 @@
 all:
-  - title: "Stereo Vision Based Pothole Detection System for Improved Ride Quality"
-    authors: "**Naveen Kumar Bangalore Ramaiah**, Subrata Kundu"
-    venue: "*SAE Int. J. Adv. & Curr. Prac. in Mobility* 3(5):2603-2610, 2021"
-    notes: "The paper was keynote at SAE WCX 2021 Digital Summit's **ADAS/AV Perception & Sensor Fusion** session"
-    teaser: surrogate_prior_teaser.png
+  - title: "Detecting debris in a vehicle path"
+    inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
-      - "[Webpage](https://doi.org/10.4271/2021-01-0085){: .btn .btn--inverse}"
-      - "[arXiv](){: .btn .btn--info}"
-      - "[Code](){: .btn .btn--inverse}"
-  - title: "Stereo Vision-Based Road Debris Detection System for Advanced Driver Assistance Systems"
-    authors: "**Naveen Kumar Bangalore Ramaiah**, Subrata Kundu"
-    venue: "*SAE Int. J. Trans. Safety* 10(1):51-73, 2022"
-    teaser: score_prior_teaser.png
+      - "[Link](https://patents.google.com/patent/US11314974B2/en){: .btn .btn--inverse}"
+  - title: "Data driven dynamically reconfigured disparity map"
+    inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
-      - "[Webpage](https://doi.org/10.4271/09-10-01-0003){: .btn .btn--inverse}"
-      - "[arXiv](){: .btn .btn--info}"
-      - "[Code](){: .btn .btn--inverse}"
-  - title: "Automatic Surface Defect Inspection System Using Convolutional Neural Networks"
-    authors: "Xiaoliang, Zhu, Subrata Kundu, and **Naveen Kumar Bangalore Ramaiah**"
-    venue: "*ICMMM* 2020"
-    teaser: rod_surface_inspection.png
+      - "[Link](https://patents.google.com/patent/US11790665B2/){: .btn .btn--inverse}"
+  - title: "Dynamic image compression for multiple cameras of autonomous vehicles"
+    Inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
-      - "[Webpage](https://iopscience.iop.org/article/10.1088/1757-899X/999/1/012012){: .btn .btn--inverse}"
-      - "[arXiv](){: .btn .btn--info}"
-      - "[Code](){: .btn .btn--inverse}"
+      - "[Link](https://patents.google.com/patent/US11546503B1/){: .btn .btn--inverse}"
+  - title: "Pothole detection system"
+    inventors: "Subrata Kumar KUNDU, **Naveen Kumar BANGALORE RAMAIAH**"
+    links:
+      - "[Link](https://patents.google.com/patent/US11373532B2/){: .btn .btn--inverse}"
+  - title: "Combining visible light camera and thermal camera information"
+    inventors: "Subrata Kumar KUNDU, **Naveen Kumar BANGALORE RAMAIAH**"
+    links:
+      - "[Link](https://patents.google.com/patent/US20220230018A1/){: .btn .btn--inverse}"
+  - title: "Adjusting manufacturing parameters based on inspection"
+    inventors: "Xiaoliang Zhu, Subrata Kumar KUNDU, **Naveen Kumar Bangalore Ramaiah**"
+    links:
+      - "[Link](https://patents.google.com/patent/WO2021221621A1/){: .btn .btn--inverse}"
+
+  - title: "Precautionary observation zone for vehicle routing"
+    inventors: "Subrata Kumar KUNDU, Yashodeep Dilip LONARI, Xiaoliang Zhu, **Naveen Kumar BANGALORE RAMAIAH**"
+    links:
+      - "[Link](https://patents.google.com/patent/US20220230018A1/){: .btn .btn--inverse}"
