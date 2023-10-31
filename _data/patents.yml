@@ -1,5 +1,5 @@
 all:
-  - title: "__Detecting debris in a vehicle path"
+  - title: "Detecting Small debris in a vehicle path"
     inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
       - "[Link](https://patents.google.com/patent/US11314974B2/en){: .btn .btn--inverse}"
