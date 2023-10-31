@@ -19,12 +19,11 @@
       <h2 class="patents__item-title" itemprop="headline">
         {{ patents.title | markdownify }}
       </h2>
-      <br style="margin-top: -1em;">{{ patents.inventors | markdownify | remove: '<p>' | remove: '</p>'}}</br>
-      <br style="margin-top: -1em;">{{ patents.venue | markdownify | remove: '<p>' | remove: '</p>'}}</br>
-      <p style="margin-top: -1em; color: rgb(3, 153, 3)">{{ patents.notes | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+      <br style="margin-top: -1em;">{{ patents.inventors | markdownify | remove: }}</br>
+      <br style="margin-top: -1em;">{{ patents.venue | markdownify | remove: }}</br>
       <br style="margin-top: -1em;">
         {% for link in patents.links %}
-          {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
+          {{ link | markdownify | remove: }}
         {% endfor %}
       </br>
     </div>
