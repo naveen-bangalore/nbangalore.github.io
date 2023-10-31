@@ -47,7 +47,7 @@ author_profile: true
 <div style="clear: both;"></div>
 <div style="clear: both;"></div>
 <div id="Patents">
-  {% for item in site.data.news.main %}
+  {% for item in site.data.patents.main %}
   <p><strong><font class="new">{{ item.name | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
   {% endfor %}
 </div>
