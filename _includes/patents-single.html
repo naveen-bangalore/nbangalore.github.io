@@ -6,16 +6,16 @@
 
 <div style="clear: both;">
   <article class="patents__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="patents__item-text">
+<!--    <div class="patents__item-text">-->
       <h2 class="patents__item-title" itemprop="headline">
         {{ patents.title | markdownify }}
       </h2>
-      <br style="margin-top: -1em;">{{ patents.inventors | markdownify | remove: '<br>' | remove: '</br>'}}</br>
-      <p style="margin-top: -1em;">
+      <br style="margin-top: -1em;">{{ patents.inventors | markdownify | remove: '<br>' | remove: '</br>'}}
+       style="margin-top: -1em;">
         {% for link in patents.links %}
           {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
         {% endfor %}
-      </p>
-    </div>
+      </br>
+<!--    </div>-->
   </article>
 </div>
