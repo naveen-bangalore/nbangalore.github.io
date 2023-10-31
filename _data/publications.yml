@@ -5,7 +5,7 @@ all:
     notes: "The paper was keynote at SAE WCX 2021 Digital Summit's **ADAS/AV Perception & Sensor Fusion** session"
     teaser: surrogate_prior_teaser.png
     links:
-      - "[Webpage](https://doi.org/10.4271/2021-01-0085){: .btn .btn--inverse}"
+      - "[Journal link](https://doi.org/10.4271/2021-01-0085){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
       - "[Code](){: .btn .btn--inverse}"
   - title: "Stereo Vision-Based Road Debris Detection System for Advanced Driver Assistance Systems"
@@ -13,7 +13,7 @@ all:
     venue: "*SAE Int. J. Trans. Safety* 10(1):51-73, 2022"
     teaser: score_prior_teaser.png
     links:
-      - "[Webpage](https://doi.org/10.4271/09-10-01-0003){: .btn .btn--inverse}"
+      - "[Journal link](https://doi.org/10.4271/09-10-01-0003){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
       - "[Code](){: .btn .btn--inverse}"
   - title: "Automatic Surface Defect Inspection System Using Convolutional Neural Networks"
@@ -21,6 +21,6 @@ all:
     venue: "*ICMMM* 2020"
     teaser: rod_surface_inspection.png
     links:
-      - "[Webpage](https://iopscience.iop.org/article/10.1088/1757-899X/999/1/012012){: .btn .btn--inverse}"
+      - "[Link](https://iopscience.iop.org/article/10.1088/1757-899X/999/1/012012){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
       - "[Code](){: .btn .btn--inverse}"
