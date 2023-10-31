@@ -5,6 +5,16 @@
 {% endif %}
 
 <div style="clear: both;">
+    <article class="patents__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="patents__item-teaser" style="margin-top: 1em;">
+      <img itemprop="image" src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="">
+    </div>
   <article class="patents__item" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="patents__item-text">
       <h2 class="patents__item-title" itemprop="headline">
