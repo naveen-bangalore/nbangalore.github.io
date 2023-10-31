@@ -20,7 +20,7 @@
       <h2 class="patents__item-title" itemprop="headline">
         {{ patents.title | markdownify }}
       </h2>
-      <p>{{ patents.inventors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+      <p style="margin-top: -1em;">{{ patents.inventors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1em;">{{ patents.venue | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1em; color: rgb(3, 153, 3)">{{ patents.notes | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1em;">
