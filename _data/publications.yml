@@ -1,0 +1,41 @@
+all:
+  - title: "Efficient Bayesian Computational Imaging with a Surrogate Score-Based Prior"
+    authors: "**Berthy T. Feng**, Katherine L. Bouman"
+    venue: "arXiv (preprint) 2023" 
+    teaser: surrogate_prior_teaser.png
+    links:
+      - "[Webpage](http://imaging.cms.caltech.edu/score_prior/){: .btn .btn--inverse}"
+      - "[arXiv](https://arxiv.org/abs/2309.01949){: .btn .btn--info}"
+      - "[Code](https://github.com/berthyf96/score_prior){: .btn .btn--inverse}"
+  - title: "Score-Based Diffusion Models as Principled Priors for Inverse Imaging"
+    authors: "**Berthy T. Feng**, Jamie Smith, Michael Rubinstein, Huiwen Chang, Katherine L. Bouman, William T. Freeman"
+    venue: "*ICCV* 2023" 
+    teaser: score_prior_teaser.png
+    links:
+      - "[Webpage](http://imaging.cms.caltech.edu/score_prior/){: .btn .btn--inverse}"
+      - "[arXiv](https://arxiv.org/abs/2304.11751){: .btn .btn--info}"
+      - "[Code](https://github.com/berthyf96/score_prior){: .btn .btn--inverse}"
+  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
+    authors: "**Berthy T. Feng**, Alexander C. Ogren, Chiara Daraio, Katherine L. Bouman"
+    venue: "*CVPR* 2022" 
+    notes: "**Oral, Best Paper Finalist** (top 1.6% of accepted papers)"
+    teaser: vvt_teaser.png
+    links:
+      - "[Webpage](http://imaging.cms.caltech.edu/vvt/){: .btn .btn--inverse}"
+      - "[arXiv](https://arxiv.org/abs/2104.02735){: .btn .btn--info}"
+      - "[Code](https://github.com/berthyf96/visvib-tomography){: .btn .btn--inverse}"
+  - title: "Towards Unique and Informative Captioning of Images"
+    authors: "Zeyu Wang, **Berthy T. Feng**, Karthik Narasimhan, Olga Russakovsky"
+    venue: "*ECCV* 2020"
+    teaser: eccv20_captioning_teaser.png
+    links:
+      - "[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/350_ECCV_2020_paper.php){: .btn .btn--info}"
+      - "[Code](https://github.com/princetonvisualai/SPICE-U){: .btn .btn--inverse}"
+  - title: "Learning Bandwidth Expansion Using Perceptually-Motivated Loss"
+    authors: "**Berthy T. Feng**, Zeyu Jin, Jiaqi Su, Adam Finkelstein"
+    venue: "*ICASSP* 2019"
+    teaser: icassp19_teaser.png
+    links:
+      - "[PDF](https://pixl.cs.princeton.edu/pubs/Feng_2019_LBE/Feng_2019_bwe.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/berthyf96/bwe_fftnet){: .btn .btn--inverse}"
+ 

@@ -1,0 +1,28 @@
+# Home page news
+main:
+  - date: "Aug 2023"
+    info: "Excited to co-organize the *Quo Vadis, Computer Vision?* [workshop](https://gkioxari.github.io/Tutorials/iccv2023/) at ICCV 2023 with Prof. [Georgia Gkioxari](https://gkioxari.github.io/)!"
+  - date: "Jul 2023"
+    info: "Excited to speak at the Astro + Imaging Workshop at Northwestern, organized by Profs. [Emma Alexander](https://www.alexander.vision/) and [Jason Wang](https://jasonwang.space/#home)!"
+  - date: "Jul 2023"
+    info: "Presented a Spotlight poster at [ICCP 2023](https://iccp2023.iccp-conference.org/)"
+
+all:
+  - date: "Aug 2023"
+    info: "Excited to co-organize the *Quo Vadis, Computer Vision?* [workshop](https://gkioxari.github.io/Tutorials/iccv2023/) at ICCV 2023 with Prof. [Georgia Gkioxari](https://gkioxari.github.io/)!"
+  - date: "Jul 2023"
+    info: "Excited to speak at the Astro + Imaging Workshop at Northwestern, organized by Profs. [Emma Alexander](https://www.alexander.vision/) and [Jason Wang](https://jasonwang.space/#home)!"
+  - date: "Jul 2023"
+    info: "Presented a Spotlight poster at [ICCP 2023](https://iccp2023.iccp-conference.org/)"
+  - date: "Jul 2023"
+    info: "Paper about score-based priors accepted to ICCV 2023"
+  - date: "Jun 2022"
+    info: "Selected as a Best Paper Finalist at CVPR 2022!"
+  - date: "Mar 2022"
+    info: "Visual Vibration Tomography accepted to CVPR 2022 as an Oral"
+  - date: "May 2021"
+    info: "Awarded the Best Poster Award at ICCP 2021 for Visual Vibration Tomography!"
+  - date: "Mar 2020" 
+    info: "Awarded the NSF Graduate Research Fellowship!"
+  - date: "Oct 2019"
+    info: "Excited to start my PhD at Caltech, advised by Prof. [Katie Bouman!](http://users.cms.caltech.edu/~klbouman/)"
