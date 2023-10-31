@@ -7,10 +7,6 @@ all:
     inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
     links:
       - "[Link](https://patents.google.com/patent/US11790665B2/){: .btn .btn--inverse}"
-  - title: "Dynamic image compression for multiple cameras of autonomous vehicles"
-    Inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
-    links:
-      - "[Link](https://patents.google.com/patent/US11546503B1/){: .btn .btn--inverse}"
   - title: "Pothole detection system"
     inventors: "Subrata Kumar KUNDU, **Naveen Kumar BANGALORE RAMAIAH**"
     links:
@@ -28,3 +24,7 @@ all:
     inventors: "Subrata Kumar KUNDU, Yashodeep Dilip LONARI, Xiaoliang Zhu, **Naveen Kumar BANGALORE RAMAIAH**"
     links:
       - "[Link](https://patents.google.com/patent/US20220230018A1/){: .btn .btn--inverse}"
+  - title: "Dynamic image compression for multiple cameras of autonomous vehicles"
+    Inventors: "**Naveen Kumar BANGALORE RAMAIAH**, Subrata Kumar KUNDU"
+    links:
+      - "[Link](https://patents.google.com/patent/US11546503B1/){: .btn .btn--inverse}"
