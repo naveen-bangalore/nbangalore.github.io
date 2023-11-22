@@ -3,7 +3,7 @@ all:
     authors: "**Naveen Kumar Bangalore Ramaiah**, Subrata Kundu"
     venue: "*SAE Int. J. Adv. & Curr. Prac. in Mobility* 3(5):2603-2610, 2021"
     notes: "The paper was presented at SAE WCX 2021 Digital Summit's **ADAS/AV Perception & Sensor Fusion**"
-    teaser: surrogate_prior_teaser.png
+    teaser: Pothole_1.png
     links:
       - "[Journal link](https://doi.org/10.4271/2021-01-0085){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
@@ -11,7 +11,7 @@ all:
   - title: "Stereo Vision-Based Road Debris Detection System for Advanced Driver Assistance Systems"
     authors: "**Naveen Kumar Bangalore Ramaiah**, Subrata Kundu"
     venue: "*SAE Int. J. Trans. Safety* 10(1):51-73, 2022"
-    teaser: score_prior_teaser.png
+    teaser: RoadDebris_1.png
     links:
       - "[Journal link](https://doi.org/10.4271/09-10-01-0003){: .btn .btn--inverse}"
       - "[arXiv](){: .btn .btn--info}"
